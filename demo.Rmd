@@ -8,7 +8,7 @@ library(knitr)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## One Big Happy Orange-ish(?) Family
+## One Big Happy Family
 
 ```{r cars, echo=FALSE}
 titles <- c('President', 'VP', 'Secretary of State', 'Secretary of Defense')
