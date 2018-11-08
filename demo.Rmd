@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## One Wonderful HAPPYYY Big Family
 
 ```{r cars, echo=FALSE}
-titles <- c('President of US', 'VP', 'Secretary of State', 'Secretary of Defense')
+titles <- c('President of US-A', 'VP', 'Secretary of State', 'Secretary of Defense')
 names <- c('Kanye West 2nd', 'Mike Pence', 'Mike Pompeo', 'James N. Mattis')
 picture_url <- c("![](https://www.usnews.com/dims4/USNEWS/605a178/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fb4%2Ff9%2F0835906340ffbb3196a84f58ae60%2Fresizes%2F1500%2F170921-donaldtrump10things-editorial.jpg)",
                  "![](https://images-na.ssl-images-amazon.com/images/I/91EFLLjIRaL._SX425_.jpg)",
